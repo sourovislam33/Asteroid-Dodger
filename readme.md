@@ -47,9 +47,13 @@ A simple space survival game built with C and Raylib. Dodge incoming asteroids, 
 
 \## 🧑‍💻 Created by
 
-\*\*Sourov Islam\*\*
+\*\*Md.Sourov Islam
+ID:251303038
+Team:10
+\*\*
 
 🕹 GitHub: [sourovislam33](https://github.com/sourovislam33)
 
 \---
+
 
